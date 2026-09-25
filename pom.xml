@@ -51,6 +51,7 @@
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>elyery_si2ostirala25</sonar.projectKey>
 		<sonar.token>a890196fdb074cc6f45eb0a98431118b5d3dbe43</sonar.token>
+		
 
 	</properties>
 
